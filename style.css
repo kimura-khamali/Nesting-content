@@ -1,0 +1,10 @@
+.container {
+  padding: 20px;
+  margin: 5%;
+  border: solid blue;
+}
+
+#box {
+  border-style: dotted;
+  border-color: 1px blueviolet;
+}
